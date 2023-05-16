@@ -1,0 +1,85 @@
+.show {
+	display: block !important;
+	animation: showMessage 1s ease-out;
+	animation-fill-mode: both;
+  }
+  
+  @keyframes showMessage {
+	0% {
+	  opacity: 0;
+	}
+	100% {
+	  opacity: 1;
+	}
+  }
+  
+  #turn {
+	text-align: center;
+	font-size: 18px;
+	color: #fff;
+	text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+  }
+  
+  .winning-sign:first-letter {
+	text-transform: uppercase;
+  }
+  
+  .flip-board {
+	padding: 10px 20px;
+	border-radius: 5px !important;
+	outline: 0;
+	background: #b5983f; /* Yellowish gold color for the flip-board button */
+	color: white;
+	border: 0;
+	text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+  }
+  
+  .show {
+	display: block !important;
+	animation: showMessage 1s ease-out;
+	animation-fill-mode: both;
+  }
+  
+  @keyframes showMessage {
+	0% {
+	  opacity: 0;
+	}
+	100% {
+	  opacity: 1;
+	}
+  }
+  
+  #turn {
+	text-align: center;
+	font-size: 18px;
+	color: #fff;
+	text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+  }
+  
+  .winning-sign:first-letter {
+	text-transform: uppercase;
+  }
+  
+  .flip-board {
+	padding: 10px 20px;
+	border-radius: 5px !important;
+	outline: 0;
+	background: #b5983f; /* Yellowish gold color for the flip-board button */
+	color: white;
+	border: 0;
+	text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+  }
+  
+  /* Styling for chess pieces */
+  .chess-piece {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+  }
+  
+  .chess-piece img {
+	max-width: 100%;
+	max-height: 100%;
+  }
+  
