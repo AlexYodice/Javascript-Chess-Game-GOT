@@ -40,5 +40,9 @@ Contributions are welcome! If you would like to contribute to this project, plea
 4. Push your changes to your forked repository.
 5. Submit a pull request describing your changes.
 
+## Photos of Programs Functionality
+
+
+![image](https://github.com/AlexYodice/Javascript-Chess-Game-GOT/assets/116100112/d672282d-6518-4ce8-b178-2b7ce6633a0f)
 
 
