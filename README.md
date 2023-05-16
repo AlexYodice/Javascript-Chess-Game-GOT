@@ -43,6 +43,6 @@ Contributions are welcome! If you would like to contribute to this project, plea
 ## Photos of Programs Functionality
 
 
-![image](https://github.com/AlexYodice/Javascript-Chess-Game-GOT/assets/116100112/d672282d-6518-4ce8-b178-2b7ce6633a0f)
+![image](https://github.com/AlexYodice/Javascript-Chess-Game-GOT/assets/116100112/7958e8ee-4deb-46bd-a070-5b1ebfffb2b6)
 
 
