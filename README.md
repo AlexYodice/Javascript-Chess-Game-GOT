@@ -1,29 +1,26 @@
-Game of Thrones Chess
-This is a Game of Thrones themed chess game built using HTML, CSS, and JavaScript. It features custom chess pieces and a timer that displays a fire effect when the time is running out. The game is played on a visually appealing chessboard with background images and themed pieces.
+Game of Thrones Chess Game
+This is a Game of Thrones themed chess game implemented using HTML, CSS, and JavaScript. The game features custom chess piece images and incorporates a timer with a fire effect that appears in the background as the timer runs out.
 
 Gameplay
-The game follows the traditional rules of chess. Each player takes turns moving their pieces on the board with the goal of checkmating their opponent's king.
+The game follows the rules of traditional chess, with each player taking turns to move their pieces on the board. The objective is to checkmate the opponent's king, putting it in a position where it cannot escape capture.
 
-Timer
-The game includes a timer that starts at 10 minutes (adjustable in the JavaScript code). It counts down the time and displays it in the format "MM:SS". When there are 3 minutes or less remaining, a fire effect is applied to the background to create a sense of urgency.
+Theme
+The chess game is designed with a Game of Thrones theme, featuring custom piece images based on characters from the popular TV series. The chessboard and pieces are styled accordingly to create a visually appealing Game of Thrones atmosphere.
 
-Visual Effects
-The game includes various visual effects to enhance the gaming experience. When a piece is clicked, allowed moves are highlighted on the board. The board can also be flipped by clicking the "Flip Board" button, which animates the rotation of the board and pieces.
+Timer and Fire Effect
+The game includes a timer that counts down from 10 minutes. As the timer reaches the 3-minute mark, a fire effect is applied to the background, adding intensity and signaling the approaching end of the game. When the timer runs out, a message indicating "Time's up!" is displayed.
 
-Themed Elements
-The chess game is Game of Thrones themed, featuring custom chess pieces inspired by the show. The background image depicts the known world map from the Game of Thrones series. The timer's fire effect adds to the overall theme and intensity of the game.
+How to Play
+To play the game, follow these steps:
 
-Usage
-To play the game, open the index.html file in a web browser. The chessboard, pieces, and timer will be displayed on the screen. Click on a piece to see its allowed moves highlighted on the board. Make your move by clicking on a highlighted square or dragging and dropping the piece to the desired position. The timer will keep track of the remaining time for each player.
+Open the "index.html" file in a web browser.
+The chessboard will be displayed, with the timer located at the top.
+Each player takes turns moving their pieces by clicking on a piece and then clicking on the desired destination square.
+The allowed moves for each piece are highlighted when a piece is clicked.
+If a move results in checkmate, a message indicating the winning player is displayed.
+Additional Features
+Flipping the Board
+To provide a different perspective, you can click the "Flip Board" button located at the bottom left corner. This will rotate the board, allowing you to view the game from the opponent's perspective.
 
-Acknowledgments
-The chess game was developed using HTML, CSS, and JavaScript, with inspiration from the Game of Thrones series. The chess pieces and visuals were designed to create an immersive experience for Game of Thrones fans and chess enthusiasts alike.
-
-Credits
-The game was developed by [Your Name] as a personal project. The chess pieces' images were sourced from [source of the images]. The background image and other visual assets were obtained from [source of the assets].
-
-License
-This project is licensed under the [License Name] License. See the LICENSE file for more details.
-
-Feel free to customize and modify the code to suit your needs and preferences. Enjoy playing the Game of Thrones Chess game!
-
+Promoting Pawns
+When a pawn reaches the opposite end of the board, it can be promoted to a different piece, typically a queen. This represents the pawn's transformation into a more powerful piece. The pawn can be promoted by moving it to the last row and selecting the desired promotion piece.
