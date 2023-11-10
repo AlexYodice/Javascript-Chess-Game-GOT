@@ -32,15 +32,6 @@ promotion piece.
 3. Use the mouse or keyboard commands to move the chess pieces on the board.
 4. Enjoy the Game of Thrones chess experience!
 
-## Contributing
-Contributions are welcome! If you would like to contribute to this project, please follow these steps:
-1. Fork the repository.
-2. Create a new branch for your feature or bug fix.
-3. Make your changes and commit them.
-4. Push your changes to your forked repository.
-5. Submit a pull request describing your changes.
-
-## Photos of Programs Functionality
 
 
 ![image](https://github.com/AlexYodice/Javascript-Chess-Game-GOT/assets/116100112/7958e8ee-4deb-46bd-a070-5b1ebfffb2b6)
